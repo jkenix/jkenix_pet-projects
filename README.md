@@ -1,6 +1,4 @@
-# Jkenix's web projects Portfolio. 
-
-## **Study projects** ⬇️
+# Jkenix's pet-projects. 
 
 ### Adaptive Web-sites: ⭐  
 
