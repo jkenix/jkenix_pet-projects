@@ -4,7 +4,6 @@
 
 |Name|Demo 🔗|Repo 🔍|
 |:------------------:|:------:|:------:|
-https://github.com/jkenix/test-peach
 |**Peach**|[Link](https://dainty-sherbet-ab0d4f.netlify.app/)|[Link](https://github.com/jkenix/test-peach)|
 |**Bresler**|[Link](https://dashing-stardust-0858f3.netlify.app/)|[Link](https://github.com/jkenix/test-bresler)|
 |**K Telecom**|-|[Link](https://github.com/jkenix/test-k-telecom)|
