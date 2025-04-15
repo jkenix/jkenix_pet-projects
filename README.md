@@ -1,5 +1,3 @@
-# Jkenix's pet-projects. 
-
 ### Wordpress/PHP projects:  🆆  
 
 |Name|Demo 🔗|Repo 🔍|
