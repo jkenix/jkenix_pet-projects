@@ -1,6 +1,3 @@
 remote_theme: pages-themes/architect@v0.2.0
-meta:
-  og:
-    title: "Jkenix Pet projects"
 plugins:
     - jekyll-remote-theme
