@@ -1,5 +1,8 @@
 title: Jkenix Pet projects
-og:
+
+meta:
+     title: "Jkenix Pet projects"
+     og:
        title: "Jkenix Pet projects"
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
