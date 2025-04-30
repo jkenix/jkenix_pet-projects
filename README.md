@@ -4,7 +4,7 @@
 
 |Name|Demo 🔗|Repo 🔍|
 |:------------------:|:------:|:------:|
-|**Table of sports races**|-|[Link](https://github.com/jkenix/test-startmedia){target="_blank"}|
+|**Table of sports races**|-|[Link](https://github.com/jkenix/test-startmedia)|
 |**DRC**|-|[Link](https://github.com/jkenix/test-inmedian-digital)|
 |**K Telecom**|-|[Link](https://github.com/jkenix/test-k-telecom)|
 |**Valo**|-|[Link](https://github.com/jkenix/test-valo)|
