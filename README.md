@@ -14,7 +14,8 @@
 
 |Name|Demo 🔗|Repo 🔍|
 |:------------------:|:------:|:------:|
-|**Peach**|[Link](https://dainty-sherbet-ab0d4f.netlify.app/)|[Link](https://github.com/jkenix/test-peach)|
+|**Dlex**|[Link](https://calm-halva-18d76f.netlify.app)|[Link](https://github.com/jkenix/test-lidera)|
+|**Softline**|[Link](https://dainty-sherbet-ab0d4f.netlify.app/)|[Link](https://github.com/jkenix/test-peach)|
 |**Bresler**|[Link](https://dashing-stardust-0858f3.netlify.app/)|[Link](https://github.com/jkenix/test-bresler)|
 |**Creative Agency**|[Link](https://creative-agencyyyy.netlify.app/)|[Link](https://github.com/jkenix/jkenix-projects/tree/creative-agency)|
 
