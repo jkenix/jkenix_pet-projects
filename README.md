@@ -1,6 +1,6 @@
 # Jkenix Pet projects
 
-### Wordpress/PHP projects:  🆆  
+### Wordpress/PHP projects:  🆆 🐘
 
 |Name|Demo 🔗|Repo 🔍|
 |:------------------:|:------:|:------:|
