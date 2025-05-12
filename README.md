@@ -8,7 +8,6 @@
 |**DRC**|-|[Link](https://github.com/jkenix/test-inmedian-digital)|
 |**K Telecom**|-|[Link](https://github.com/jkenix/test-k-telecom)|
 |**Valo**|-|[Link](https://github.com/jkenix/test-valo)|
-|**Travelline**|[Link](https://fastidious-dodol-e6b19f.netlify.app/)|[Link](https://github.com/jkenix/test-travelline)|
 
 ### Adaptive Landings Pages: 🌐  
 
